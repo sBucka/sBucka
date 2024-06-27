@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a aspiring applied engineering student passionate about becoming a successful programmer. Committed to continuous improvement and productivity.
+
+- 🔭 I’m currently working on my Portfolio Website using React
+- 🌱 I’m currently learning Full-stack development, that includes React, Node.js and AWS
+
 <!--
 **sBucka/sBucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
