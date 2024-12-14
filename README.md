@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a aspiring applied engineering student passionate about becoming a successful programmer. Committed to continuous improvement and productivity.<br><br>🌱 I’m currently learning Full-stack development, that includes React, Node.js and AWS
+I am an aspiring applied engineering student passionate about becoming a successful programmer. Committed to continuous improvement and productivity.<br><br>🌱 I’m currently learning Full-stack development, that includes React, Node.js and AWS
 
 
 ## 🌐 Socials:
